@@ -13,15 +13,24 @@ date: 2023-09-08 03:00:00 +0000
     font-size: 18px;
     text-indent: 50px;
   }
-
+  #sub{
+    font-size: 12px;
+    color: rgb(94, 94, 94);
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+  }
 </style>
 
 ## Reflection Piece
 
 <div id="images">
   <img src="/assets/img/post_images/euro1.png">
+  <p id="sub">AP Euro notes showing unnecessary background.</p>
   <img src="/assets/img/post_images/euro2.png">
+  <p id="sub">AP Euro notes showing irrelevant people.</p>
   <img src="/assets/img/post_images/euro3.png">
+  <p id="sub">AP Euro notes showing too much detail.</p>
 </div>
 
 ## Reflection
