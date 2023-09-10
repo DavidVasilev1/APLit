@@ -40,6 +40,35 @@ refactor: true
   {% endfor %}
 {% endif %}
 
+<style>
+  #header h1 {
+    font-size: 80px;
+    text-align: center;
+    font-weight: bold;
+  }
+  #header h3 {
+    font-size: 20px;
+    color: rgb(149, 149, 149);
+    text-align: center;
+    margin-top: -20px;
+  }
+  #header p{
+    font-size: 12px;
+    color: rgb(94, 94, 94);
+    text-align: center;
+    margin-top: -20px;
+    font-weight: bold;
+    font-style: italic;
+  }
+</style>
+
+<div id="header">
+  <h1>Senior Reflection</h1>
+  <h3>David Vasilev</h3>
+  <img src="/assets/img/post_images/homePage-sunset.jpg">
+  <p>A picture of a sunset I took. Symbolizing ending of high school.</p>
+</div>
+
 <div id="post-list">
   {% for post in posts %}
     <a href="{{ post.url | relative_url }}" class="card-wrapper">
