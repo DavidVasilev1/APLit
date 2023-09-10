@@ -6,6 +6,7 @@ tags: ['Reflection', 'Growth']
 description: Reflection of entirety of high school.
 toc: True
 date: 2023-09-08 01:00:00 +0000
+image: /assets/img/post_images/senior.jpg
 ---
 
 <style>
@@ -13,7 +14,19 @@ date: 2023-09-08 01:00:00 +0000
     font-size: 18px;
     text-indent: 50px;
   }
+  #sub{
+    font-size: 12px;
+    color: rgb(94, 94, 94);
+    text-align: center;
+    margin-top: -10px;
+    font-weight: bold;
+    font-style: italic;
+  }
 </style>
+
+<p id="sub">Image I took in senior year.</p>
+
+## Reflection
 
 <p id="essay">
   Now in my last year of high school, I realize just how much I have grown, both as a student and as an individual. This is just the beginning of my life and career, either as an engineer or scientist. Through the experiences that I have had in classes, with friends, and in extracurriculars, I have been able to develop skills that have allowed me to become an organized individual that is able to not only get through but also thrive in a stressful environment while still keeping relations with colleagues. Reflecting on my experiences has allowed me to realize how much I, as well as my environment around me, has changed in the past four years. It has also allowed me to appreciate the people I have surrounded myself with, my friends, teachers, and colleagues at work. It has become clear to me how much I have learned from experiences with them or directly from them, with their patience of my, at times, bland nature. Overall, my experiences in high school have and will continue to help me with future endeavors in whatever college, career, and experiences I decide to pursue.
