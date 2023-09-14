@@ -1,5 +1,5 @@
 ---
-icon: fas fa-archive
+icon: fas fa-1
 order: 1
 ---
 

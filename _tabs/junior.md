@@ -1,5 +1,5 @@
 ---
-icon: fas fa-tags
+icon: fas fa-3
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-icon: fas fa-stream
+icon: fas fa-2
 order: 2
 ---
 

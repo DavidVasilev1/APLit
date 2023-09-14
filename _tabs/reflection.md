@@ -1,5 +1,5 @@
 ---
-icon: fas fa-archive
+icon: fas fa-graduation-cap
 order: 4
 ---
 
